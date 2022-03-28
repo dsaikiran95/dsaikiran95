@@ -7,7 +7,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
 import java.util.*;
-class Main
+class ArrayList1
 {
 	public static void main(String[] args) 
 	{
