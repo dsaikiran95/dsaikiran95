@@ -8,7 +8,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
 import java.util.*;
-public class Main {
+public class Main9 {
   public static void main(String[] args) {
     ArrayList<String> cars = new ArrayList<String>();
     cars.add("Volvo");
