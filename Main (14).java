@@ -6,7 +6,7 @@ C#, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, S
 Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
-public class Main
+public class Pattern1
 {
 	public static void main(String[] args) {
 	    int r = 10;
