@@ -11,7 +11,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 
 import java.util.*;
-class Employee
+class EmployeeLinArray
 {
     int id;
     String name;
