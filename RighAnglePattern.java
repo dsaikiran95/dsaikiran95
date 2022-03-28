@@ -7,7 +7,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
 
-public class Main
+public class RighAnglePattern
 {
     public static void main(String[] args)
     {
