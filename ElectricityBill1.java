@@ -3,7 +3,7 @@
     
       
 import java.util.*;
-public class ElectricityBill {
+public class ElectricityBill1 {
 
     public static void main(String args[]) {
     // create object for Scanner class
